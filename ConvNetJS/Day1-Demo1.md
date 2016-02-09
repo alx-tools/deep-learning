@@ -12,7 +12,7 @@ We recommend you use Chrome as your browser.
 
 ## Task 1 : Observation
 
-![Start](https://github.com/gregrenard/hs/blob/master/ConvNetJS/images/capture1.png)
+![Start](https://github.com/holbertonschool/deep-learning/tree/master/ConvNetJS/images/capture1.png)
 
 As you open the page, the Network starts to train itself.
 You can observe 3 modules on the page :
@@ -70,7 +70,7 @@ You can observe the classification's evolution.
 
 Now try more complex distribution shapes by clicking on the buttons : simple, circle, spiral, ring, check, spots or target.
 
-![More Neurons](https://github.com/gregrenard/hs/blob/master/ConvNetJS/images/capture2.png)
+![More Neurons](https://github.com/holbertonschool/deep-learning/tree/master/ConvNetJS/images/capture2.png)
 
 You can observe the difficulty of your current Network to identify the right classification model as it is limited to a separating with a single line.  
 
@@ -92,7 +92,7 @@ layer_defs.push({type:'softmax', num_classes:2});
 
 You can observe that some shapes (like the circle, or the check mark) are easier for the Network to model than others.
 
-![alt tag](https://github.com/gregrenard/hs/blob/master/ConvNetJS/images/capture3.png)
+![alt tag](https://github.com/holbertonschool/deep-learning/tree/master/ConvNetJS/images/capture3.png)
 
 
 Exercices :
@@ -120,7 +120,7 @@ layer_defs.push({type:'softmax', num_classes:2});
 
 After replicated the whole line with "num_neurons:". Now you have a 2-layer network.
 
-![Add Layers](https://github.com/gregrenard/hs/blob/master/ConvNetJS/images/capture4.png)
+![Add Layers](https://github.com/holbertonschool/deep-learning/tree/master/ConvNetJS/images/capture4.png)
 
 Exercise:
 - **How quickly can it crack the "target"?**
