@@ -17,4 +17,4 @@ The original project is at https://github.com/karpathy/convnetjs
 
 ## Demos Guidelines & RoadMap
 
-- Feb 5 2016 : [Presentation](https://drive.google.com/file/d/0B9s2hxjW5kHtZjRFcWduS01IRUU/view) and [Day1-Demo1](https://github.com/gregrenard/hs/blob/master/ConvNetJS/Day1-Demo1.md)
+- Feb 5 2016 : [Presentation](https://drive.google.com/file/d/0B9s2hxjW5kHtZjRFcWduS01IRUU/view) and [Day1-Demo1](https://github.com/holbertonschool/deep-learning/blob/master/ConvNetJS/Day1-Demo1.md)
