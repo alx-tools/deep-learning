@@ -12,7 +12,7 @@ We recommend you use Chrome as your browser.
 
 ## Task 1 : Observation
 
-![Start](https://github.com/holbertonschool/deep-learning/tree/master/ConvNetJS/images/capture1.png)
+![Start](https://github.com/holbertonschool/deep-learning/blob/master/ConvNetJS/images/capture1.png)
 
 As you open the page, the Network starts to train itself.
 You can observe 3 modules on the page :
