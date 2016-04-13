@@ -1,0 +1,53 @@
+1. Tests just after the installation of each Deep Learning Framework :
+- open a terminal in any folder
+- type : python (=. you'll have the ">>>" in your terminal)
+- type : import theano (if you have a new line with ">>>", it's ok)
+- execute the same process after each installation
+-- tensorflow : import tensorflow
+-- keras : import keras
+
+
+2. Execute the Addition_RNN (full workshop)
+- copy / paste the file in a folder
+- open a terminal and browse to the folder where you pasted the file 
+- execute the command : python addition_rnn.py  (please read all below before executing)
+- you'll see the following informations :
+(hs) Gregs-MacBook-Pro:examples som$ python addition_rnn.py 
+
+Using Theano backend.
+
+Generating data...
+
+Total addition questions: 50000
+
+Vectorization...
+
+/Users/som/Python_DevEnv/hs/lib/python3.4/site-packages/keras/engine/training.py:279: VisibleDeprecationWarning: using a non-integer number instead of an integer will result in an error in the future
+
+  return X[start:stop]
+
+addition_rnn.py:126: VisibleDeprecationWarning: using a non-integer number instead of an integer will result in an error in the future
+
+  (y_train, y_val) = (y[:split_at], y[split_at:])
+
+(45000, 7, 12)
+
+(45000, 4, 12)
+
+Build model...
+
+/Users/som/Python_DevEnv/hs/lib/python3.4/site-packages/keras/layers/core.py:978: UserWarning: TimeDistributedDense is deprecated, please use TimeDistributed(Dense(...)) instead.
+
+  warnings.warn('TimeDistributedDense is deprecated, '
+
+
+
+--------------------------------------------------
+
+Iteration 1
+
+...
+
+
+
+- Abord with : Control + Z

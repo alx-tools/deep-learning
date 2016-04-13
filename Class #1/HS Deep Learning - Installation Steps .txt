@@ -1,0 +1,52 @@
+Roadmap of the Day
+
+0. Lemme
+- Installing Python on OS X : http://docs.python-guide.org/en/latest/starting/install/osx/
+- Installation of PyCharm Community : https://www.jetbrains.com/pycharm/download/
+
+1. Installation of a Virtual Environments .
+- VirtualEnv : https://virtualenv.pypa.io/en/latest
+--- http://docs.python-guide.org/en/latest/starting/install/osx/
+--- https://hackercodex.com/guide/python-development-environment-on-mac-osx/
+
+2. Installation Env Keras : theano, tensorflow and keras
+
+- Installation Theano : http://deeplearning.net/software/theano/install.html#install
+--- sudo pip install git+git://github.com/Theano/Theano.git
++ check you can import theano as th
+
+- Installation Tensorflow : 
+--- https://github.com/tensorflow/tensorflow/blob/master/tensorflow/g3doc/get_started/os_setup.md
+--- if not working :
+download the version mac pc35 : https://storage.googleapis.com/tensorflow/mac/tensorflow-0.7.1-cp35-none-any.whl, 
+rename on cp35 to cp34 and use the "pip install + local file"
++ check you can import tensorflow as tf
+
+- Install requirements :
+--- pip install pyyaml
+--- pip install cython (C Python)
+--- pip install h5py | http://docs.h5py.org/en/latest/build.htmlp
++ if hdf5 not installed => brew install homebrew/science/hdf5 (after updated or installed brew)
+
+- Installation Keras : http://keras.io/#installation
+--- sudo pip install keras
+
+3. Git Clone of Keras :
+- What's Keras ?
+- Git Clone Keras + browse projet : https://github.com/fchollet/keras
+
+
+3. Ouverture Projet Keras
+- Addition : examples/addition_rnn.py
+- MNIST : examples/mnist_cnn.py
+
+========================
+
+Todo :
+- install : ipython + jupyter
+- describe the code of addition_rnn
+- build a step by step mnist with jupyter
+
+http://keras.io/getting-started/sequential-model-guide/
+
+pip3 install --upgrade https://storage.googleapis.com/tensorflow/mac/tensorflow-0.7.1-cp35-none-any.whl
