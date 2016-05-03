@@ -1,7 +1,6 @@
 # Deep Learning : You can do it !!! at Holberton School
 
-Yes, you can do it!
-Deep Learning is easy and we'll prove it!
+__**Yes, you can do it! Deep Learning is easy and we'll prove it!**__
 
 Welcome in the Deep Learning Introduction by Louis Monier and Gregory Renard.
 https://www.holbertonschool.com/
@@ -11,7 +10,7 @@ https://www.holbertonschool.com/
 ## Introduction
 
 The goals of these exercices are
-- to disover the maths foundations of deep learning and train your first Neural Networks based on the Javascript
+- to discover the math foundations of deep learning and train your first Neural Networks based on the Javascript
 implementation of Neural networks by Andrej Karpathy : "ConvNetJS".
 - to understand the basics of deep neural networks and play with Keras, a minimalist, highly modular neural networks
 library, written in Python and capable of running on top of either TensorFlow or Theano.
@@ -19,9 +18,6 @@ library, written in Python and capable of running on top of either TensorFlow or
 
 ## RoadMap
 
-- Class 0 : [Presentation](https://drive.google.com/file/d/0B9s2hxjW5kHtZjRFcWduS01IRUU/view) and [Day1-Demo1]
-(https://github.com/holbertonschool/deep-learning/blob/master/ConvNetJS/Day1-Demo1.md)
-- Class 1 : [Presentation](https://drive.google.com/file/d/0B9s2hxjW5kHtZjRFcWduS01IRUU/view) and [Day1-Demo1]
-(https://github.com/holbertonschool/deep-learning/blob/master/ConvNetJS/Day1-Demo1.md)
-- Class 2 : [Presentation](https://drive.google.com/file/d/0B9s2hxjW5kHtZjRFcWduS01IRUU/view) and [Day1-Demo1]
-(https://github.com/holbertonschool/deep-learning/blob/master/ConvNetJS/Day1-Demo1.md)
+- Class 0 : [Presentation](http://www.slideshare.net/holbertonschool/deep-learning-class-0-by-louis-monier-gregory-renard) and [material #0](https://github.com/holbertonschool/deep-learning/tree/master/Class%20%230)
+- Class 1 : [Presentation](http://www.slideshare.net/holbertonschool/deep-learning-keynote-1-by-louis-monier) and [material #1](https://github.com/holbertonschool/deep-learning/tree/master/Class%20%231)
+- Class 2 : [Presentation](http://www.slideshare.net/holbertonschool/deep-learning-class-2-by-louis-monier) and [material #2](https://github.com/holbertonschool/deep-learning/tree/master/Class%20%232)
