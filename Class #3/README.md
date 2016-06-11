@@ -12,7 +12,7 @@ The keynote was given by [Louis Monier](https://twitter.com/louis_monier) and wo
 
 [![Deer Learning for Images slideshow](http://i.imgur.com/8cq2vBz.png)](http://www.slideshare.net/holbertonschool/deep-learning-class-3-take-two-lstms)
 
-For this workshop, Gregory Renard commented in detail a Text Recognition code.
+For this workshop, Gregory Renard commented in detail a [Text Recognition code](http://htmlpreview.github.io/?https://github.com/holbertonschool/deep-learning/blob/master/Class%20%233/Text%20Classification%20MLP%20Reuters%20Dataset.html).
 
 # About Holberton School
 [Holberton School](https://www.holbertonschool.com/) is a community-driven school. We train full-stack software engineers in two years, using peer and project-based learning. 
